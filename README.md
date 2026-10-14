@@ -8,7 +8,7 @@ Explain a technical product or workflow through blueprints, structure diagrams a
 
 [**Get this template on MotionGit ↗**](https://motiongit.com/@motiongit/motiongit-promo-blueprint) · [简体中文](README.zh-CN.md)
 
-> Demo live · template download coming soon. Check the live page for availability. Register/sign in and obtain your own .motion when download opens.
+> Download available · check the current license on MotionGit. Check the live page for availability. Register/sign in and obtain your own .motion when download opens.
 
 ## Demo
 
