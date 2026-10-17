@@ -3,7 +3,7 @@
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-blueprint
-Version: 2.5.5
+Version: 2.6.0
 Download available; current terms are listed with the package.
 
 ## Technical reference
