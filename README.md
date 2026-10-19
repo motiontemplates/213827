@@ -4,7 +4,7 @@
 
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.1** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-blueprint)**
 https://motiongit.com/@motiongit/motiongit-promo-blueprint
