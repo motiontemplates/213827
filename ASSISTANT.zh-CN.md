@@ -3,7 +3,7 @@
 以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。
 
 模板与完整下载: https://motiongit.com/@motiongit/motiongit-promo-blueprint
-版本: 2.6.3
+版本: 2.6.4
 下载已开放，当前许可见模板页面与下载包。
 
 ## 技术资料
