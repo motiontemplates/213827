@@ -3,14 +3,13 @@
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-blueprint
-Version: 2.6.5
+Version: 2.6.6-alpha.2
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
 - Declared runtime profile: html-canvas/1.
 - Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
-- The declared timeline has a fixed duration; new content fits its existing scene order and timing.
 
 - The package declares a Python and Node.js host. Check its dependency lock for supported versions and any additional rendering tools.
 - Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.
@@ -31,7 +30,7 @@ Demo available. Check the official page for current download availability.
 
 ## Supported scope
 
-- The documented output is 1920 × 1080, 60 fps. The public demo is 76 seconds.
+- The documented output is 1920 × 1080, 60 fps; default demo duration is 76 seconds.
 - Use the actual package parameter bounds; extra materials do not automatically create extra scenes.
 - Changing the scene order or engine; the frozen original source and timeline remain authoritative.
 - Automatic replacement of product images/videos or brand paths/marks: no declared media import slot in this candidate. Preserve fixed demonstration visuals only when they are relevant; otherwise this route is not suitable.
